@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jawahargit
-- 👀 I’m interested in learning SAP Fiori/Ui5
-- 🌱 I’m currently learning Fiori
+- 👀 I’m interested in learning BTP CAP ABAP/SAP Fiori/Ui5
+- 🌱 I’m currently learning BTP CAP withFiori
 - 💞️ I’m looking to collaborate on New dev
 - 📫 How to reach me -my mail -jawahar.prince@gmail.com
 
