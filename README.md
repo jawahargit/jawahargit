@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jawahargit
-- 👀 I’m interested in learning BTP CAP ABAP/SAP Fiori/Ui5
+- 👀 I’m interested in learning BTP CAP ABAP/SAP Fiori/Ui5 and GEN AI
 - 🌱 I’m currently learning BTP CAP withFiori
 - 💞️ I’m looking to collaborate on New Projects and build Poc's
-- 💞️ I love teaching , i do Coporate and Individual trainings on SAP topics
+- 💞️ I love teaching and sharing my learnings 
 - 📫 How to reach me -my mail -jawahar.prince@gmail.com
 
 <!---
