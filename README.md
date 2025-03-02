@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BTP CAP withFiori
 - 💞️ I’m looking to collaborate on New Projects and build Poc's
 - 💞️ I love teaching and sharing my learnings 
-- 📫 How to reach me -my mail -jawahar.prince@gmail.com
+- 📫 How to reach me -my mail -jawaharch.btpe@gmail.com
 
 <!---
 jawahargit/jawahargit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
